@@ -4,3 +4,4 @@
 
 ## You can calculate from this calculator.
 # Link of site:
+https://sahil1036.github.io/calculator/
